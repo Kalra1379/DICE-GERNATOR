@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing:border-box; 
+}
+body{
+    background-color: #393E46;
+    text-align: center;
+}
+h1{
+    font-size: 8rem;
+    font-family: 'Lobster';
+    color:#4ECCA3;
+    margin: 30px;
+
+}
+.heading{
+    margin:top:30px;
+    text-align:center;
+    font-size: 2rem;
+    font-family:'Indie Flower' ;
+    color:#4ECCA3 ;
+    display:inline-block;
+}
+img{
+    width:80%;
+}
+footer{
+    color: #EEEEEE;
+    font-family: 'Indie Flower';
+    margin-top: 5%;;
+
+}
